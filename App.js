@@ -4,21 +4,21 @@ import './App.css';
 
 import React from "react";
 
-// import Footer from "./components/footer";
+import Footer from "./components/footer";
 import FooterSection from "./components/FooterSection";
 import TestimonialCards from "./components/TestimonialCards";
-import GatewayCards from "./components/GatewayCards";
+import PropertiesCards from "./components/PropertiesCards";
 
 function App() {
   return (
     <div className="App">
       
-      {/* <Footer/> */}
-      <GatewayCards/>
+      
+      <PropertiesCards/>
       <TestimonialCards/>
 
       <FooterSection/>
-     
+      <Footer/>
      
    
     </div>

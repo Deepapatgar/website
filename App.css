@@ -1,82 +1,27 @@
-/* .logo {
-  max-width: 40%;
-  display: flex;
-  padding-left: 90px;
-}
-
-.navbar {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  background: #090909;
-  box-shadow: 0px -2px 2px rgba(62, 83, 3, 0.3), 0px 1px 3px rgba(79, 107, 4, 0.2);
-}
-
-.nav-menu {
-  display: flex;
-  list-style: none;
-  text-align: center;
-  margin-right: 2rem;
-}
-
-.nav-links {
-  color: #fff;
-  text-decoration: none;
-  padding: 0.5rem 1rem;
-  height: 100%;
-  border-bottom: 3px solid transparent;
-}
-
-li a:hover {
-  color: #F5A023;
-  transition: 0.4s;
-}
-
-.nav-item {
-  line-height: 40px;
-  margin-right: 1rem;
-  color: #ffff;
-  list-style: none;
-}
-
-.nav-item:after {
-  content: "";
-  display: block;
-  height: 3px;
-  width: 0;
-  background: transparent;
-  transition: width 0.7s ease, background-color 0.5s ease;
-}
-
-.nav-item .active {
-  color: #ffdd40;
-  border: 1px solid #ffdd40;
-} */
-/* 
 
 /*deepa */
 
-/* .footer {
+.footer {
   width: 1903px;
   height: 401px;
   background: #090909;
   display: flex;
   flex-direction: row;
-} */
+}
 
-/* .footer-section-1 {
+.footer-section-1 {
   display: flex;
   flex-direction: column;
   margin-left: 50px;
-} */
+}
 
 
-/* .social-media {
+.social-media {
   display: flex;
   flex-direction: row;
-} */
+}
 
-/* .in-icon {
+.in-icon {
   margin-top: 53px;
   margin-left: 36px;
 }
@@ -95,24 +40,19 @@ li a:hover {
   margin-left: 12px;
   margin-top: 51px;
 
-} */
+}
 
-/* .footer-section-2 {
-  margin-left: 475px;
-  margin-top: 50px;
-  width: 117px;
+   
 
-} */
-
-/* .quik-links {
+.quik-links {
   font-family: Arial, Helvetica, sans-serif;
   font-style: normal;
   font-weight: 600;
   font-size: 18px;
   line-height: 21px;
   color: #FFFFFF;
-} */
-/* 
+}
+
 .home {
   list-style: none;
   font-style: normal;
@@ -123,24 +63,24 @@ li a:hover {
   color: #FFFFFF;
   font-family: Arial, Helvetica, sans-serif;
   padding: 0px;
-} */
-
-/* .home>li {
-  padding: 5px;
 }
+
+ .home>li {
+  padding: 5px;
+} 
 
 .home> :hover {
   color: #F5A023;
   transition: 0.4s;
-} */
+}
 
-/* .footer-section-3 {
+.footer-section-3 {
   margin-left: 450px;
   margin-top: 50px;
   width: 391px;
-} */
+}
 
-/* .reach-us {
+.reach-us {
   font-family: Arial, Helvetica, sans-serif;
   font-style: normal;
   font-weight: 600;
@@ -148,13 +88,13 @@ li a:hover {
   line-height: 21px;
   color: #FFFFFF;
 
-} */
+}
 
-/* .number {
+ .number {
   color: #FFFFFF;
   margin-left: 32px;
   margin-top: -22px;
-}
+} 
 
 .phone-icon {
   margin-top: 22px;
@@ -178,7 +118,7 @@ li a:hover {
   color: #FFFFFF;
   margin-left: 32px;
   margin-top: -22px;
-}  */
+}  
 
 /* FooterSection */
 
@@ -310,23 +250,23 @@ li a:hover {
 
 }
 
-.vector-image {
+.quote-left {
   margin-left: 39px;
 }
 
-.vector-image-1 {
+.quote-left-1 {
   margin-left: 25px;
   margin-top: -35px;
 }
 
-.vector-image-2 {
+.quote-right-2 {
   float: right;
   margin-right: 59px;
   margin-top: -36px;
 
 }
 
-.vector-image-3 {
+.quote-right-3 {
   position: relative;
   left: 24px;
   bottom: 36px;
@@ -362,14 +302,14 @@ li a:hover {
   color: #090909;
 }
 
-.gateway-cards {
+.property-cards {
   display: flex;
   justify-content: center;
   margin: 100px 274px 10px 301px;
 
 }
 
-.rashi-gateway-content {
+.property-content {
   font-style: normal;
   font-weight: 600;
   font-size: 20px;
@@ -392,7 +332,7 @@ li a:hover {
 }
 
 
-.gateway-amount {
+.property-amount {
   font-style: normal;
   font-weight: 600;
   font-size: 18px;
@@ -403,7 +343,7 @@ li a:hover {
 
 }
 
-.gateway-info {
+.property-info {
   background: #F5A023;
   list-style: none;
   border: 0.817073px solid #F5A023;
